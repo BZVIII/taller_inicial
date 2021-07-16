@@ -1,5 +1,5 @@
-original = "tizas"
-nueva = "yesos"
+original = input("introduce original")
+nueva = input("introduce nueva")
 
 nombreF = "fichero.txt"
 
